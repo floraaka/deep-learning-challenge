@@ -24,6 +24,7 @@ Start by uploading the starter file to Google Colab, then using the information 
 Read in the charity_data.csv to a Pandas DataFrame, and be sure to identify the following in your dataset:
 * What variable(s) are the target(s) for your model?
 * What variable(s) are the feature(s) for your model?
+
 Drop the EIN and NAME columns.
 Determine the number of unique values for each column.
 For columns that have more than 10 unique values, determine the number of data points for each unique value.
